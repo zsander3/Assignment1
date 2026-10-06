@@ -1,0 +1,49 @@
+======================================================================
+ CS 1430  -  ASSIGNMENT 1  -  SUBMISSION RECEIPT
+======================================================================
+ Status         : COMPLETE - all checks passed
+ GitHub user    : zsander3
+ Repository     : https://github.com/zsander3/Assignment1
+ Commit         : 0fb7c68  Initial commit
+ Commit author  : zsander3
+ Generated      : 2026-10-05 19:49:49
+
+ SELF CHECK
+======================================================================
+ CS 1430  -  ASSIGNMENT 1 SELF CHECK
+ 2026-10-05 19:49:49   zsander3
+======================================================================
+ [PASS] Python is installed                        3.14.7
+ [PASS] main.py is in this folder                  
+ [PASS] main.py runs without an error              
+ [PASS] The ASCII art is unchanged                 
+ [PASS] You added at least one print statement     1 added
+ [PASS] Your name shows up when the program runs   5 new lines of output
+ [PASS] Git is installed                           git version 2.56.0.windows.2
+ [PASS] This folder is a Git repository            
+ [PASS] You have made a commit                     "Initial commit"
+ [PASS] This repo points at GitHub                 github.com/zsander3/Assignment1
+ [PASS] Your commit is pushed to GitHub            0fb7c68
+======================================================================
+
+ WHAT YOUR PROGRAM PRINTED
+======================================================================
+
+ _______         __ __
+|   |   |.-----.|  |  |.-----.
+|       ||  -__||  |  ||  _  |__
+|___|___||_____||__|__||_____|  |
+                              |_|
+ ________              __     __ __
+|  |  |  |.-----.----.|  |.--|  |  |
+|  |  |  ||  _  |   _||  ||  _  |__|
+|________||_____|__|  |__||_____|__|
+
+CS 1430  |  Introduction to Python  |  UW-Platteville
+
+ZZZZZZZZZ   AAAA        CC     H   H
+     ZZ    A    A     CC       H   H
+   ZZ      AAAAAA    CC        HHHHH
+ ZZ        A    A     CC       H   H
+ZZZZZZZZ   A    A       CC     H   H
+======================================================================
